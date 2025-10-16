@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hola 👋
+
+Soy estudiante de Ingeniería de Datos e Inteligencia Artificial en la Universidad Complutense de Madrid. Estoy en mi último año de carrera y actualmente trabajo en mi TFG sobre _Análisis y clasificación de fósiles con IA_.
+
+- 🌱 Durante mi carrera estoy trabajando en proyectos de Ingeniería de Datos, Aprendizaje Automático, Visión por Computador ... y me gustaría seguir aprendiendo y expandiendo mis conocimientos!
+- 📫 Cómo contactar conmigo: carfer23@ucm.es
 
 <!--
 **carfer23/carfer23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
