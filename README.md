@@ -1,8 +1,8 @@
 ## Hola 👋
 
-Soy estudiante de Ingeniería de Datos e Inteligencia Artificial en la Universidad Complutense de Madrid. Estoy en mi último año de carrera y actualmente trabajo en mi TFG sobre _Análisis y clasificación de fósiles con IA_.
+Soy Carmen, graduada en Ingeniería de Datos e Inteligencia Artificial en la Universidad Complutense de Madrid. Actualmente soy estudiante del Máster en Lingüística y Tecnologías UCM-UPM, en la especialidad de lingüística computacional.
 
-- 🌱 Durante mi carrera estoy trabajando en proyectos de Ingeniería de Datos, Aprendizaje Automático, Visión por Computador ... y me gustaría seguir aprendiendo y expandiendo mis conocimientos!
+- 🌱 Durante mis estudios estoy trabajando en proyectos de Ingeniería de Datos, Aprendizaje Automático, Procesamiento del Lenguaje Natural... y me gustaría seguir aprendiendo y expandiendo mis conocimientos!
 - 📫 Cómo contactar conmigo: carfer23@ucm.es
 
 <!--
